@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "Bitrix Chat Nav"
+  },
+  "extDescription": {
+    "message": "Keyboard shortcuts for navigating Bitrix24 chats, opening conversations, and focusing the message box."
+  },
+  "extActionTitle": {
+    "message": "Bitrix Chat Nav"
+  },
+  "actionBarSearchPlaceholder": {
+    "message": "Search chat..."
+  },
+  "actionBarEmpty": {
+    "message": "No chats found."
+  },
+  "entityTypeChat": {
+    "message": "Group / channel"
+  },
+  "entityTypeUser": {
+    "message": "Direct message"
+  },
+  "actionBarEnter": {
+    "message": "Enter"
+  },
+  "actionBarFooterLeft": {
+    "message": "↑ ↓ navigate • Enter opens"
+  },
+  "actionBarFooterRight": {
+    "message": "Ctrl/Cmd + K opens • Esc closes"
+  },
+  "close": {
+    "message": "Close"
+  }
+}

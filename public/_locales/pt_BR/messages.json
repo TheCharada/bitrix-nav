@@ -1,0 +1,35 @@
+{
+  "extName": {
+    "message": "Bitrix Chat Nav"
+  },
+  "extDescription": {
+    "message": "Atalhos para navegar pelos chats do Bitrix24, abrir conversas e focar a caixa de mensagem."
+  },
+  "extActionTitle": {
+    "message": "Bitrix Chat Nav"
+  },
+  "actionBarSearchPlaceholder": {
+    "message": "Buscar chat..."
+  },
+  "actionBarEmpty": {
+    "message": "Nenhum chat encontrado."
+  },
+  "entityTypeChat": {
+    "message": "Grupo / canal"
+  },
+  "entityTypeUser": {
+    "message": "Conversa direta"
+  },
+  "actionBarEnter": {
+    "message": "Enter"
+  },
+  "actionBarFooterLeft": {
+    "message": "↑ ↓ navega • Enter abre"
+  },
+  "actionBarFooterRight": {
+    "message": "Ctrl/Cmd + K abre • Esc fecha"
+  },
+  "close": {
+    "message": "Fechar"
+  }
+}
