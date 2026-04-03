@@ -1,8 +1,8 @@
-# Bitrix Chat Nav
+# Bitrix Nav
 
 Keyboard shortcuts for navigating Bitrix24 chats faster.
 
-![Bitrix Chat Nav Banner](public/banner-1280x240.png)
+![Bitrix Nav Banner](public/banner-1280x240.png)
 
 ## Features
 
