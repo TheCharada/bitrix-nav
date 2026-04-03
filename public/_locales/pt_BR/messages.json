@@ -1,12 +1,12 @@
 {
   "extName": {
-    "message": "Bitrix Chat Nav"
+    "message": "Bitrix Nav"
   },
   "extDescription": {
     "message": "Atalhos para navegar pelos chats do Bitrix24, abrir conversas e focar a caixa de mensagem."
   },
   "extActionTitle": {
-    "message": "Bitrix Chat Nav"
+    "message": "Bitrix Nav"
   },
   "actionBarSearchPlaceholder": {
     "message": "Buscar chat..."
