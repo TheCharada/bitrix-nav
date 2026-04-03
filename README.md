@@ -69,8 +69,7 @@ pnpm wxt zip -b firefox --mv3
 
 ## Privacy
 
-This extension does not send chat data to external servers.
-Data is only read from the Bitrix UI and cached locally using extension storage.
+![PRIVACY](PRIVACY.md)
 
 ## License
 
