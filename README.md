@@ -69,7 +69,7 @@ pnpm wxt zip -b firefox --mv3
 
 ## Privacy
 
-![PRIVACY](PRIVACY.md)
+[PRIVACY](PRIVACY.md)
 
 ## License
 
