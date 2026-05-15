@@ -1,8 +1,8 @@
 import type { BitrixRecentItem } from '../../types/bitrix';
 
-const SCROLL_CONTAINER_SELECTOR = '.bx-im-list-recent__scroll-container';
-const PINNED_CONTAINER_SELECTOR = ':scope > .bx-im-list-recent__pinned_container';
-const GENERAL_CONTAINER_SELECTOR = ':scope > .bx-im-list-recent__general_container';
+const SCROLL_CONTAINER_SELECTOR = '.bx-im-list-base__scroll-container';
+const PINNED_CONTAINER_SELECTOR = ':scope > .bx-im-list-base__pinned_container';
+const GENERAL_CONTAINER_SELECTOR = ':scope > .bx-im-list-base__general_container';
 const ITEM_SELECTOR = ':scope > .bx-im-list-recent-item__wrap[data-id]';
 
 function normalizeText(value: string | null | undefined) {
